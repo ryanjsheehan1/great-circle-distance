@@ -7,7 +7,7 @@
 
 public class Haversine {
     /**
-     * The greatCircleDistance method prints the great-circle distance between
+     * The greatCircleDistance method returns the great-circle distance between
      * two points on a sphere given their longitudes and latitudes as arguments.
      *
      * @param lat1 the latitude of point 1
