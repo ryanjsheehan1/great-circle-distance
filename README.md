@@ -1,1 +1,1 @@
-# great-circle-distance
+# haversine
