@@ -3,10 +3,6 @@
  * on a sphere given their longitudes and latitudes. Important in navigation,
  * it is a special case of a more general formula in spherical trigonometry,
  * the law of haversines, that relates the sides and angles of spherical triangles.
- *
- * @author Ryan Sheehan
- * @version 1.0;
- * @serial 2022-08-30
  */
 
 public class Haversine {
